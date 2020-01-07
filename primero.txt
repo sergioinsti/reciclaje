@@ -1,11 +1,5 @@
 Archivo con un poco de texto, para servir de primera versión.
 Sólo una línea.
 
-Cuarta modificación
-
 Línea de modificación, para crear una segunda versión del archivo.
 Podría pensarse que contiene un error.
-
-Tercera modificación
-
-Cuarta modificación
